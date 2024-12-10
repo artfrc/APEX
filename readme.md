@@ -26,6 +26,7 @@
 
 ## Tela de Login
 ![alt text](image.png)
+
 *__Aqui já não é utilizado o login que vem por padrão do Oracle APEX, foi criado uma autenticação personalizada, onde será mostrado posteriormente.__*
 
 ## Página Home
